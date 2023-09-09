@@ -1,1 +1,1 @@
-Initialization file,variables and expansion
+Intialization of files,variables and expansion
